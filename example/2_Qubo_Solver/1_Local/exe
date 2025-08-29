@@ -1,0 +1,1 @@
+torchqubo solve-local --Q ../../1_gen_Q/q.txt --restarts 64 --iters 30000 --tabu 0 --device auto --seed None --out sol.txt --log run_local.txt

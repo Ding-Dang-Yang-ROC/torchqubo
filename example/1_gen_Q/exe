@@ -1,0 +1,2 @@
+torchqubo make-q --n 256 --density 0.03 --scale 1.0 --seed 42 --out q.txt
+

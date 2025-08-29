@@ -1,0 +1,1 @@
+torchqubo solve-pt --Q ../../1_gen_Q/q.txt --replicas 16 --steps 400 --T_min 0.05 --T_max 3.0 --swap_every 10 --device auto --seed None --out sol_pt.txt --log run_pt.txt

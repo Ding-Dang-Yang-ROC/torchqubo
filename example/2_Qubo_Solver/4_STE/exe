@@ -1,0 +1,1 @@
+torchqubo solve-ste --Q ../../1_gen_Q/q.txt --steps 8000 --lr 0.05 --tau0 1.0 --tau_end 0.1 --device auto --seed None --out sol_ste.txt --log run_ste.txt

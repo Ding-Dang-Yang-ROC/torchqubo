@@ -1,0 +1,1 @@
+torchqubo solve-spectral --Q ../../1_gen_Q/q.txt --rounds 32768 --k 32 --refine_iters 500 --device auto --seed 42 --out sol_spectral.txt --log run_spectral.txt

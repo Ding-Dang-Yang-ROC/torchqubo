@@ -64,5 +64,5 @@ Apache 2.0 License
 
 
 
-👩‍💻 Author: Ding-Dang Yang | 📧 112258018@g.nccu.edu.tw
+Author: Ding-Dang Yang |  112258018@g.nccu.edu.tw
 
